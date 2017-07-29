@@ -17,6 +17,7 @@
 - Exclusão do produto;
 - Botão de logout.
 * OBS.: As categorias devem vir do banco de dados, e serem dinâmicas, ou seja, caso adicione algum registro no BD, ele deverá aparecer para a seleção no próximo acesso à página.
+* Após finalizar o teste, enviar uma PR para este repositório
 
 ### Requisitos
 
