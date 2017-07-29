@@ -1,6 +1,7 @@
 # Teste: Nome do candidato
 
-### Prazo: dd/mm/aaaa #####*Antes de iniciar o projeto, informe o prazo para a conclusão, com uma PR no branch master.
+### Prazo: dd/mm/aaaa
+##### *Antes de iniciar o projeto, informe o prazo para a conclusão, com uma PR no branch master.
 
 ## Criar um CRUD O projeto deverá conter as seguintes telas / funções:
 
