@@ -25,7 +25,7 @@
 - A API deverá ser RESTfull (Utilizar GET, POST, PUT e DELETE);
 - Utilizar algum framework PHP (Laravel 5+, Yii2, Zend2, etc);
 - Utilizar dependecias (caso necessário) com o composer;
-- Utilizar o template (Gentellela)[https://github.com/puikinsh/gentelella]
+- Utilizar o template [Gentellela](https://github.com/puikinsh/gentelella)
 - Utilizar uma lib ou framework js, caso necessário (angular, jquery, react, etc);
 - A cada commit, colocar um descritivo objetivo (em inglês) da funcionalidade concluída / ajustada.
 
