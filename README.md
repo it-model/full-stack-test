@@ -21,8 +21,8 @@
 
 ### Requisitos
 
-- Utilizar API (todas as requisições devem ser vinculadas à essa API);
-- A API deverá ser RESTfull (Utilizar GET, POST, PUT e DELETE);
+- Desenvolver back-end e front-end separados;
+- A API criada deverá ser RESTfull (Utilizar GET, POST, PUT e DELETE);
 - Utilizar algum framework PHP (Laravel 5+, Yii2, Zend2, etc);
 - Utilizar dependecias (caso necessário) com o composer;
 - Utilizar o template [Gentellela](https://github.com/puikinsh/gentelella)
