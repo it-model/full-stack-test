@@ -37,3 +37,5 @@
 - Caso o framework escolhido seja o laravel, utilização do homestead;
 
 ##### *Em caso de dúvidas, sinta-se à vontade para entrar em contato com icaro@itmodel.com
+
+### Ao final do teste, criar uma pasta, adicionar no git e enviar um pull request com os arquivos
