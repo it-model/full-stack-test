@@ -1,6 +1,6 @@
-# Teste: Nome do candidato
+# Teste: Cloves Junior
 
-### Prazo: dd/mm/aaaa
+### Prazo: 02/08/2017
 ##### *Antes de iniciar o projeto, informe o prazo para a conclusão, com uma PR no branch master.
 
 ## Criar um CRUD
